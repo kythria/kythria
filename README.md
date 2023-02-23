@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Bootstrap 5 Example</title>
+  <title>FLAKY BLISS</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -9,25 +9,20 @@
 </head>
 <body>
 
-<div class="container-fluid p-5 bg-dark text-white text-center">
-
-        <img src="C:\Users\casol\Downloads\327197271_1390204051521453_8300987486562371056_n (1).jpg" style="width: 100px;" class="">
-      
-  <h1 style="color:yellow">SANDOK   KING    RESTOBAR </h1>
-  <h6 style="color:white">Thank you our valued customers. We hope your experience was excellent, and we can't wait to see you again soon. Rest Assured that we will continuously improve our service to give you the satisfaction you deserve.</h6>
-</div>
-    <nav class="container-fluid navbar navbar-expand-lg bg-dark navbar-dark d-flex justify-content-end">
+    <nav class="container-fluid navbar navbar-expand-lg bg-danger navbar-danger d-flex justify-content-end">
         <div class="container">
       <a class="navbar-brand" href="#">
       </a>
-      <a class="nav-link fw-bolder" href="#"style="color:yellow"</a>MENU</a>
-      <a class="nav-link fw-bolder " href="#"style="color:yellow"</a>LOCATION</a>
-      <a class="nav-link fw-bolder" href="#"style="color:yellow"</a>INFO</a>
-      <a class="nav-link fw-bolder" href="#"style="color:yellow"</a>ABOUT</a>
+
+      <a class="nav-link fw-bolder" href="#"style="color:white"</a>MENU</a>
+      <a class="nav-link fw-bolder" href="#"style="color:white"</a>PROMOS</a>
+      <a class="nav-link fw-bolder" href="#"style="color:white"</a>CAREERS</a>
+      <a class="nav-link fw-bolder" href="#"style="color:white"</a>INFO</a>
+      <a class="nav-link fw-bolder" href="#"style="color:white"</a>ABOUT</a>
 
       <form class="d-flex justify-content-end " role="search">
-          <button class="btn btn-outline-warning m-2" type="submit">RESERVATION</button>
-          <button class="btn btn-outline-warning m-2" type="submit">DELIVER</button>
+          <button class="btn btn-outline-light m-2" type="submit">ORDER ONLINE</button>
+          <button class="btn btn-outline-light m-2" type="submit">MESSAGE</button>
     </form>
         
     </div>
@@ -50,16 +45,21 @@
     <!-- The slideshow/carousel -->
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="C:\Users\casol\Downloads\327655267_140568345281300_4730052837416120979_n.jpg" class="d-block" style="width:100%">
+        <img src="C:\Users\casol\Downloads\FLAKY BLISS.jpg" class="d-block" style="width:100%">
+    </div>
+      <div class="carousel-item">
+        <img src="C:\Users\casol\OneDrive\Pictures\PASTRY\basic-cupcakes-49457-1.jpeg"  class="d-block" style="width:100%">
+        <div class="carousel-caption">
+            <div class="d-flex h-100 align-items-center justify-content-center">
+            <h3>Every time you order from Flaky Bliss Delivery hotline – 5678-1-888 , you are making sure that you are getting the best Pinoy products that are oh so delicious. Ordering via Go Delivery will definitely set the mood no matter what time of the day.</h3>
+        </div>
+        </div>
       </div>
       <div class="carousel-item">
-        <img src="C:\Users\casol\Downloads\327197271_1390204051521453_8300987486562371056_n.jpg"  class="d-block" style="width:100%">
+        <img src="C:\Users\casol\OneDrive\Pictures\PASTRY\strawberry_shortcake_91461_16x9.jpg"  class="d-block" style="width:100%">
       </div>
       <div class="carousel-item">
-        <img src="C:\Users\casol\Downloads\329373122_3009822242657157_8545650359717105740_n.jpg"  class="d-block" style="width:100%">
-      </div>
-      <div class="carousel-item">
-        <img src="C:\Users\casol\Downloads\326981883_561701952685261_5625961511086892384_n.jpg"  class="d-block" style="width:100%">
+        <img src="C:\Users\casol\OneDrive\Pictures\PASTRY\convert-a-cake-recipe-into-cupcakes-01-hero-cad5674b1e844739b3921ee6271be8d4.jpg"  class="d-block" style="width:100%">
       </div>
     </div>
     
